@@ -1,0 +1,27 @@
+.container {
+    padding-top: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  .flex-container {  
+    padding:10px;
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+  }
+  

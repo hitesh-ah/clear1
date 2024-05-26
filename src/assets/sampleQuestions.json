@@ -1,0 +1,33 @@
+[
+    {
+      "questionText": "What is the capital of France?",
+      "options": [
+        { "displayText": "Berlin" },
+        { "displayText": "Madrid" },
+        { "displayText": "Paris" },
+        { "displayText": "Rome" }
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which planet is known as the Red Planet?",
+      "options": [
+        { "displayText": "Earth" },
+        { "displayText": "Mars" },
+        { "displayText": "Jupiter" },
+        { "displayText": "Saturn" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "What is the largest ocean on Earth?",
+      "options": [
+        { "displayText": "Atlantic Ocean" },
+        { "displayText": "Indian Ocean" },
+        { "displayText": "Arctic Ocean" },
+        { "displayText": "Pacific Ocean" }
+      ],
+      "answer": 3
+    }
+  ]
+  
