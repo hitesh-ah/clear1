@@ -7,8 +7,9 @@ import {
   QuizMessageBox,
 } from './models/question';
 import { Observable } from 'rxjs';
-import { QuestionService } from './services/question.service';
+
 import { MatSnackBar } from '@angular/material/snack-bar';
+import { QuestionService } from './services/question.service';
 
 @Component({
   selector: 'app-root',
